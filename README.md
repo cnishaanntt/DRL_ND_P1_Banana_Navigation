@@ -39,11 +39,11 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  To use a Jupyter notebook, run the following command from the `p1_navigation/` folder:
+Follow the instructions in `P1-Banana Navigation.ipynb` to get started with training your own agent!  To use a Jupyter notebook, run the following command from the `DRL_ND_P1_Banana_Navigation/` folder:
 ```
 jupyter notebook
 ```
-and open `Navigation.ipynb` from the list of files.  Alternatively, you may prefer to work with the [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) interface.  To do this, run this command instead:
+and open `P1-Banana Navigation.ipynb` from the list of files.  Alternatively, you may prefer to work with the [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) interface.  To do this, run this command instead:
 ```
 jupyter-lab
 ```
